@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page!
+## Welcome to my Online Portfolio!
 Hello World!
 
 You can use the [editor on GitHub](https://github.com/chandana-k/chandana-k.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
